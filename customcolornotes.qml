@@ -22,7 +22,7 @@ MuseScore {
         }
 
         Component.onCompleted: {
-            open(); // Abre o diálogo automaticamente ao carregar
+            open(); 
         }
     }
 
@@ -109,6 +109,6 @@ MuseScore {
 
     onRun: {
         console.log("Running Color Notes Plugin with External Colors File");
-        fileDialog.open(); // Abre o diálogo para selecionar o arquivo
+        fileDialog.open();
     }
 }

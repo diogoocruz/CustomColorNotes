@@ -1,0 +1,12 @@
+C: #FF5733   
+C#/Db: #C70039   
+D: #FFC300   
+D#/Eb: #DAF7A6   
+E: #33FF57   
+F: #33FFF0   
+F#/Gb: #3380FF   
+G: #3357FF   
+G#/Ab: #7D33FF   
+A: #E033FF   
+A#/Bb: #FF33A8   
+B: #FF3367   
